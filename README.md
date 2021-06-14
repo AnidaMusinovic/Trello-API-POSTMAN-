@@ -1,4 +1,3 @@
-# Trello-API-POSTMAN-
 This is a project that includes the identification and automation of smoke test cases for Trello API. I used Postman to automate test cases.
 
 

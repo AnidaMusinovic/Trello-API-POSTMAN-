@@ -13,7 +13,7 @@ This is a project that includes the identification and automation of smoke test 
 - Delete a board
 - Delete a card
 
-# How to run the test using newman
+# How to run the tests using newman
 
 First, you have to download Trello collection and environment to your computer.
 1. Open the terminal and type the command “newman run”

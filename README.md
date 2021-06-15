@@ -9,6 +9,7 @@ This is a project that includes the identification and automation of smoke test 
 - Move card to another list
 - Add a member to a card
 - Add a member to a board
+- Archive a list
 - Delete a board
 - Delete a card
 
